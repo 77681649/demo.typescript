@@ -1,0 +1,11 @@
+{
+  "extends": "",
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "commonjs",
+    "outDir": "built",
+    "target": "es5",
+    "jsx": "react"
+  }
+}
