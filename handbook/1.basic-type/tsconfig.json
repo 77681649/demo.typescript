@@ -1,10 +1,9 @@
 {
-  "include": ["src/**/*"],
+  "includes": ["src/**/*"],
   "compilerOptions": {
     "allowJs": true,
     "module": "commonjs",
     "outDir": "built",
-    "target": "es5",
-    "jsx": "react"
+    "target": "es5"
   }
 }
