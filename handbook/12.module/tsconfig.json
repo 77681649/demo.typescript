@@ -1,0 +1,10 @@
+{
+  "includes": ["src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "built",
+    "target": "es5"
+  }
+}
