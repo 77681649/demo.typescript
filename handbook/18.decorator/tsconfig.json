@@ -1,0 +1,10 @@
+{
+  "includes": ["src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "commonjs",
+    "outDir": "built",
+    "target": "es5",
+    "experimentalDecorators": true
+  }
+}
